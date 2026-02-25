@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/build-smarthire-ai--enterprise-grade-intelligent-talent-acquisition-platform-227581-227640/smarthire_frontend"
+}
